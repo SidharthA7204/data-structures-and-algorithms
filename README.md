@@ -13,6 +13,3 @@ The goal of this repository is to demonstrate **problem-solving skills, algorith
 - Linked Lists (upcoming)
 - Trees (upcoming)
 
----
-
-## 📂 Repository Structure

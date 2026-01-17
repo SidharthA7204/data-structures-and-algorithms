@@ -10,6 +10,6 @@ The goal of this repository is to demonstrate **problem-solving skills, algorith
 - Binary Search
 - Arrays (upcoming)
 - Strings (upcoming)
-- Linked Lists (upcoming)
+- Linked Lists (upcoming) 
 - Trees (upcoming)
 
